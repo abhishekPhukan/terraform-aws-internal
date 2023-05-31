@@ -1,1 +1,3 @@
-# terraform-aws-internal
+# Sample Module testing Repository
+
+# Release Notes:
